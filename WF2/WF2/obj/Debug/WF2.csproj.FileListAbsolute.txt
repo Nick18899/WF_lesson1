@@ -8,3 +8,13 @@ C:\Users\rekni\source\repos\WF2\WF2\obj\Debug\WF2.csproj.GenerateResource.cache
 C:\Users\rekni\source\repos\WF2\WF2\obj\Debug\WF2.csproj.CoreCompileInputs.cache
 C:\Users\rekni\source\repos\WF2\WF2\obj\Debug\WF2.exe
 C:\Users\rekni\source\repos\WF2\WF2\obj\Debug\WF2.pdb
+D:\WF2\WF2\bin\Debug\WF2.exe.config
+D:\WF2\WF2\bin\Debug\WF2.exe
+D:\WF2\WF2\bin\Debug\WF2.pdb
+D:\WF2\WF2\obj\Debug\WF2.csprojAssemblyReference.cache
+D:\WF2\WF2\obj\Debug\WF2.Form1.resources
+D:\WF2\WF2\obj\Debug\WF2.Properties.Resources.resources
+D:\WF2\WF2\obj\Debug\WF2.csproj.GenerateResource.cache
+D:\WF2\WF2\obj\Debug\WF2.csproj.CoreCompileInputs.cache
+D:\WF2\WF2\obj\Debug\WF2.exe
+D:\WF2\WF2\obj\Debug\WF2.pdb

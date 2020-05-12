@@ -1,0 +1,10 @@
+C:\Users\rekni\source\repos\WF3\WF3\bin\Debug\WF3.exe.config
+C:\Users\rekni\source\repos\WF3\WF3\bin\Debug\WF3.exe
+C:\Users\rekni\source\repos\WF3\WF3\bin\Debug\WF3.pdb
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.csprojAssemblyReference.cache
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.Form1.resources
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.Properties.Resources.resources
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.csproj.GenerateResource.cache
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.csproj.CoreCompileInputs.cache
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.exe
+C:\Users\rekni\source\repos\WF3\WF3\obj\Debug\WF3.pdb

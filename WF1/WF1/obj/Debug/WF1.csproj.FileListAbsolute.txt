@@ -1,0 +1,10 @@
+C:\Users\rekni\source\repos\WF1\WF1\bin\Debug\WF1.exe.config
+C:\Users\rekni\source\repos\WF1\WF1\bin\Debug\WF1.exe
+C:\Users\rekni\source\repos\WF1\WF1\bin\Debug\WF1.pdb
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.csprojAssemblyReference.cache
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.Properties.Resources.resources
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.csproj.GenerateResource.cache
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.exe
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.pdb
+C:\Users\rekni\source\repos\WF1\WF1\obj\Debug\WF1.HellowWorld.resources
